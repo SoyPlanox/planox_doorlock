@@ -1,1 +1,33 @@
 # planox_doorlock
+
+SOYPLANOX_DOORLOCK
+Discord: https://discord.gg/4JB7exW2V6
+
+ES
+Requisitos
+
+ESX Legacy (Se puede usar otras pero no se asegura que funcione)
+Artifacts actualizados para funcionar con lúa 5.4
+Caracteristicas
+Optimizado
+Diseño único y especial
+Crea puertas en el juego y eliminalas
+Usa pines o trabajo
+¿Cómo crearlo?
+
+Para añadir una puerta usa /door
+Para borrar la puerta usa /deletedoor
+EN
+
+Requirements
+ESX Legacy (Others can be used but it is not guaranteed to work)
+Updated artifacts to work with lua 5.4
+Features
+Optimized
+unique and special design
+Create doors in the game and remove them
+Use pins or work
+How to create it?
+
+To add a door use /door
+To delete the door use /deletedoor
